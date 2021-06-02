@@ -1,5 +1,5 @@
 # 100 Days of Code [Python]
-==============================
+------------------------------
 
 ![image](https://user-images.githubusercontent.com/27973071/120494168-38036c00-c3d9-11eb-9902-425285cd6513.png)
 
