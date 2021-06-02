@@ -8,7 +8,6 @@ P.S. Since I have prior knowledge in Python , I can easily complete 3-4 Day's Wo
 
 I hope to Complete the Challenge by 9th September 2021 [100 days]
 
-![image](https://user-images.githubusercontent.com/27973071/120351468-8b17e900-c31d-11eb-82f2-81c28b96bb6d.png)
 
 
 
