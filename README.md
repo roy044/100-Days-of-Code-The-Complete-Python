@@ -13,6 +13,6 @@ I hope to Complete the Challenge by 9th September 2021 [100 days]
 
 
 
-## [Course Link]:(https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+[Course Link]:(https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
-## [LINKED ID]:(https://www.linkedin.com/in/arindam-roy-271209192/)
+[LINKED ID]:(https://www.linkedin.com/in/arindam-roy-271209192/)
