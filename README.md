@@ -1,6 +1,6 @@
 # 100 Days of Code [Python]
 
-<img src="https://https://i.pinimg.com/originals/d5/4d/6f/d54d6f25fb653654f8ea483e24243313.jpg" width="100" height="100">
+![image](https://user-images.githubusercontent.com/27973071/120494168-38036c00-c3d9-11eb-9902-425285cd6513.png)
 
 
 On 1st June 2021 I decided to undertake the 100 Days of Code Challenge , I browsed on the internet and came upon this course by Dr. Angela Yu - " 100 Days of Code - The Complete Python Pro Bootcamp for 2021 " 
