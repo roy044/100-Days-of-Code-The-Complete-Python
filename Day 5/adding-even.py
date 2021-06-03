@@ -1,12 +1,15 @@
-total_height = 0
-for height in student_heights:
-  total_height += height
-print(f"total height = {total_height}")
+even_sum = 0
 
-number_of_students = 0
-for student in student_heights:
-  number_of_students += 1
-print(f"number of students = {number_of_students}")
+for number in range(2, 101, 2):
+  even_sum += number
+print(even_sum)
   
-average_height = round(total_height / number_of_students)
-print(average_height)
+#or
+
+alternative_sum = 0
+
+for number in range(1, 101):
+  if number % 2 == 0:
+    # print(number)
+    alternative_sum += number
+print(alternative_sum)
